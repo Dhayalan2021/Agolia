@@ -1,7 +1,7 @@
 (function() {
     var placesAutocomplete = places({
-      appId: 'plYC1BM3BEN3',
-      apiKey: '513bb572fd7c9ea69e10e6a47f1a850c',
+      appId: 'your api code',
+      apiKey: 'your api key',
       container: document.querySelector('#address'),
       templates: {
         value: function(suggestion) {
